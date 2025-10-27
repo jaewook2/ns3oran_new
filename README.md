@@ -9,8 +9,8 @@ This repository organizes various projects related to the **up-to-date NS3–RIC
 | Component | Repository | Base Project |
 |------------|-------------|---------------|
 | **e2sim** | [jaewook2/e2sim_update](https://github.com/jaewook2/e2sim_update.git) | [wineslab/ns-o-ran-e2-sim](https://github.com/wineslab/ns-o-ran-e2-sim) |
-| **ns-o-ran** | [jaewook2/nsoran_update](https://github.com/jaewook2/nsoran_update.git) | [wineslab/ns-o-ran-ns3-mmwave](https://github.com/wineslab/ns-o-ran-ns3-mmwave) |
-| **mmWave** | [jaewook2/ns3mmave_update](https://github.com/jaewook2/ns3mmave_update.git) | [o-ran-sc/sim-ns3-o-ran-e2](https://github.com/o-ran-sc/sim-ns3-o-ran-e2) |
+| **ns-o-ran** | [jaewook2/nsoran_update](https://github.com/jaewook2/nsoran_update.git) | [o-ran-sc/sim-ns3-o-ran-e2](https://github.com/o-ran-sc/sim-ns3-o-ran-e2) |
+| **mmWave** | [jaewook2/ns3mmave_update](https://github.com/jaewook2/ns3mmave_update.git) |[wineslab/ns-o-ran-ns3-mmwave](https://github.com/wineslab/ns-o-ran-ns3-mmwave) |
 
 ---
 
