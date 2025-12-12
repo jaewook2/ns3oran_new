@@ -32,7 +32,7 @@ WORKDIR /workspace
 # ----------------------------------
 # E2SIM 설치
 # ----------------------------------
-RUN git clone https://github.com/jaewook2/e2sim_update.git /workspace/e2sim && \
+RUN git clone https://github.com/jaewook2/e2sim_update.git -b kpmv2 /workspace/e2sim && \
     mkdir -p /workspace/e2sim/e2sim/build
 
 WORKDIR /workspace/e2sim/e2sim/build
@@ -45,8 +45,8 @@ RUN cmake .. -DDEV_PKG=1 -DLOG_LEVEL=${log_level_e2sim} && \
 # ns-3 + oran-interface 설치
 # ----------------------------------
 WORKDIR /workspace
-RUN git clone https://github.com/jaewook2/ns3mmave_update.git /workspace/ns3-mmwave-oran && \
-    git clone https://github.com/jaewook2/nsoran_update.git /workspace/ns3-mmwave-oran/contrib/oran-interface
+RUN git clone https://github.com/jaewook2/ns3mmave_update.git -b kpmv2 /workspace/ns3-mmwave-oran && \
+    git clone https://github.com/jaewook2/nsoran_update.git /-b kpmv2 workspace/ns3-mmwave-oran/contrib/oran-interface
 
 WORKDIR /workspace/ns3-mmwave-oran
 RUN chmod +x waf && ./waf configure && ./waf build
