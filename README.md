@@ -34,8 +34,8 @@ This repository organizes various projects related to the **up-to-date NS3–RIC
 
 ## 🧠 Repositories Related to the RIC and xApps
 
-- **kpimon-go:** (to be added)
-- **RC :** (to be added)
+- **kpimon-go:** [jaewook2/kpimon-go_nsoran -b k-rel](https://github.com/jaewook2/kpimon-go_nsoran)
+- **RC :** [jaewook2/rc_nsoran -b k-rel](https://github.com/jaewook2/rc_nsoran)
 ---
 
 ## 🧩 Description
