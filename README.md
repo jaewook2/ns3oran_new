@@ -1,6 +1,6 @@
 # ns3oran_new
 
-This repository organizes various projects related to the **up-to-date NS3–RIC platform**, supporting **E2AP v2 or v3** and **E2SM v3**.
+This repository organizes various projects related to the **up-to-date NS3–RIC platform**, interworking with ORANSC KPIMONGO and RC Xapp (K-Rel) 
 
 ---
 
@@ -16,14 +16,14 @@ This repository organizes various projects related to the **up-to-date NS3–RIC
 
 
 ## 🛰️ Repositories Related to the ns-3 Based Access Network based on mmWave project
-| Component | Support E2 V2 (Interworking with ORANSC KPIMONGO and RC Xapp (K-Rel) |
+| Component | Support E2 V2 (Interworking with ORANSC KPIMONGO and RC Xapp (K-Rel)) |
 |------------|-------------|
 | **e2sim** | [jaewook2/e2sim_update](https://github.com/jaewook2/e2sim_update.git) |
 | **ns-o-ran** | [jaewook2/nsoran_update](https://github.com/jaewook2/nsoran_update.git) |
 | **mmWave** | [jaewook2/ns3mmave_update](https://github.com/jaewook2/ns3mmave_update.git) |
 
 ## 🛰️ Repositories Related to the ns-3 Based Access Network based on 5G LENA project
-| Component | Support E2 V2 (Interworking with ORANSC KPIMONGO and RC Xapp (K-Rel) |
+| Component | Support E2 V2 (Interworking with ORANSC KPIMONGO and RC Xapp (K-Rel)) |
 |------------|-------------|
 | **e2sim** | [jaewook2/e2sim_update](https://github.com/jaewook2/e2sim_update.git) |
 | **ns-o-ran** | [jaewook2/nsoran_update](https://github.com/jaewook2/nsoran_update.git) |
